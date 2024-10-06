@@ -1,5 +1,11 @@
 > [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/Van_Qish)
 
+## Registration
+
+To use this bot, you need to have a Coub account. If you don't have one, you can register using the following link:
+
+[Register on Coub](https://t.me/coub/app?startapp=coub__marker_18639912)
+
 ## Coub Automation Bot
 
 🚀 Automated Task Completion & Reward Claimer for Coub 🚀
@@ -62,11 +68,6 @@ To run the script, use the following command:
 
 The bot will automatically process all accounts and tasks defined in your configuration files.
 
-## Registration
-
-To use this bot, you need to have a Coub account. If you don't have one, you can register using the following link:
-
-[Register on Coub](https://t.me/coub/app?startapp=coub__marker_18639912)
 
 ## Disclaimer
 
